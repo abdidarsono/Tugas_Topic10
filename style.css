@@ -1,0 +1,28 @@
+
+
+  #pembatasbiodata1{
+    border-style: none;
+    border-top-style: inset;
+    border-width: 5px;
+    border-color: #581c0c;
+
+    width: 90%;
+
+  }
+
+.kelas1{
+  background-color: #581c0c;
+  font-family: Arial;
+  color:#f1e3cb;
+  
+}
+.kelas2{
+  background-color: #f9b384 ;
+  font-family: Helvetica;
+  color:  #ca5116;
+}
+#id1{
+  background-color: #f1e3cb ;
+  font-family: Calibri;
+  color:  black;
+}
